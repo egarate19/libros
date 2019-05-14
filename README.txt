@@ -1,2 +1,2 @@
 HOLA
-Este es el README de la rama Rama1
+Estoy en la rama Rama1
