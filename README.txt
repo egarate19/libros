@@ -1,2 +1,2 @@
-Hola
-Archivo Readme en Rama1
+HOLA 
+Este es el README de la rama Master
